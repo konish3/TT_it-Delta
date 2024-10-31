@@ -1,0 +1,16 @@
+.images_list {
+  background-color: azure;
+  border-radius: 20px;
+  padding: 30px 50px;
+}
+.images_list__content {
+}
+.images_list__photos {
+  display: flex;
+  gap: 20px;
+}
+.images_list__item {
+  width: 200px;
+  height: 200px;
+  background-color: gray;
+}
